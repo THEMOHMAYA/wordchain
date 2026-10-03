@@ -1,0 +1,79 @@
+{
+  "players": {
+    "5311223486": {
+      "total_wins": 1,
+      "current_streak": 1,
+      "total_points": 11
+    },
+    "7981975183": {
+      "total_wins": 0,
+      "current_streak": 0,
+      "total_points": 0
+    },
+    "902": {
+      "name": "Bob",
+      "total_wins": 0,
+      "matches_played": 2,
+      "current_streak": 0,
+      "best_streak": 0,
+      "total_points": 1,
+      "coins": 285,
+      "inventory": {
+        "shield": 0,
+        "time_boost": 0,
+        "hint": 0,
+        "swap": 0
+      },
+      "longest_word": "ELEPHANTS"
+    },
+    "901": {
+      "name": "Alice",
+      "total_wins": 2,
+      "matches_played": 2,
+      "current_streak": 2,
+      "best_streak": 2,
+      "total_points": 0,
+      "coins": 130,
+      "inventory": {
+        "shield": 0,
+        "time_boost": 0,
+        "hint": 0,
+        "swap": 0
+      },
+      "longest_word": ""
+    },
+    "2": {
+      "name": "PlayerTwo",
+      "total_wins": 0,
+      "matches_played": 0,
+      "current_streak": 0,
+      "best_streak": 0,
+      "total_points": 3,
+      "coins": 55,
+      "inventory": {
+        "shield": 0,
+        "time_boost": 0,
+        "hint": 0,
+        "swap": 0
+      },
+      "longest_word": "ELEPHANT"
+    },
+    "1": {
+      "name": "PlayerOne",
+      "total_wins": 0,
+      "matches_played": 0,
+      "current_streak": 0,
+      "best_streak": 0,
+      "total_points": 3,
+      "coins": 65,
+      "inventory": {
+        "shield": 0,
+        "time_boost": 0,
+        "hint": 0,
+        "swap": 0
+      },
+      "longest_word": "ELEPHANT"
+    }
+  },
+  "pinned_messages": {}
+}

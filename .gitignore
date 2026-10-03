@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local user stats (optional, keep default clean)
+# stats.json
